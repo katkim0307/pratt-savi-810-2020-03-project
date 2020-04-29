@@ -1,7 +1,5 @@
-# pratt-savi-810-2020-03-project
-Pratt SAVI - Python for Geospatial Final Project
+# Pratt SAVI - Python for Geospatial -  Final Project
 
-# Final Project 
 ## Due 5/11 Monday, Presentation 5/6 Wednesday
 
 
